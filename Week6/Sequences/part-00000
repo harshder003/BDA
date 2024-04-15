@@ -1,0 +1,3 @@
+Row(user_id=1, action_sequence=['click', 'view', 'purchase'])
+Row(user_id=3, action_sequence=['view', 'purchase'])
+Row(user_id=2, action_sequence=['click', 'view', 'purchase', 'click'])

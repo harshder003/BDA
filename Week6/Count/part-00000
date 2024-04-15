@@ -1,0 +1,8 @@
+Row(user_id=2, action='purchase', count=1)
+Row(user_id=3, action='purchase', count=1)
+Row(user_id=2, action='view', count=1)
+Row(user_id=1, action='click', count=1)
+Row(user_id=1, action='purchase', count=1)
+Row(user_id=3, action='view', count=1)
+Row(user_id=2, action='click', count=2)
+Row(user_id=1, action='view', count=1)
