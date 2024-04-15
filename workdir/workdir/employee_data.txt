@@ -1,0 +1,10 @@
+1,1980-01-01,John,Doe,Male,Monday
+2,1985-02-15,Jane,Smith,Female,Tuesday
+3,1990-03-30,Michael,Johnson,Male,Wednesday
+4,1995-04-15,Sarah,Williams,Female,Thursday
+5,2000-05-20,David,Brown,Male,Friday
+6,2005-06-05,Emily,Jones,Female,Saturday
+7,2010-07-10,James,Miller,Male,Sunday
+8,2015-08-15,Olivia,Davis,Female,Monday
+9,2020-09-20,Liam,Garcia,Male,Tuesday
+10,2025-10-25,Emma,Rodriguez,Female,Wednesday

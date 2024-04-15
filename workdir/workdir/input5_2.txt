@@ -1,0 +1,14 @@
+John	26	30000
+Jack	40	80000
+Joshi	25	35000
+Jash	35	75000
+Yash	40	60000
+Smith	20	24000
+Lion	42	56000
+Kate	50	76000
+Cassy	51	40000
+Ronald	57	65000
+John	26	30000
+Smith	20	24000
+Jash	35	75000
+Cassy	51	40000
